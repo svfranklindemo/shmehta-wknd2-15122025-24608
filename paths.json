@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/shmehta-wknd2-15122502/language-masters/en:/",
+    "/content/shmehta-wknd2-15122502/language-masters/en/:/en/",
+    "/content/shmehta-wknd2-15122502/language-masters/fr/:/fr/",
+    "/content/shmehta-wknd2-15122502/language-masters/fr:/fr",
+    "/content/shmehta-wknd2-15122502/language-masters/es/:/es/",
+    "/content/shmehta-wknd2-15122502/language-masters/es:/es",
+    "/content/shmehta-wknd2-15122502/language-masters/ja/:/ja/",
+    "/content/shmehta-wknd2-15122502/language-masters/ja:/ja",
+    "/content/shmehta-wknd2-15122502/language-masters/de/:/de/",
+    "/content/shmehta-wknd2-15122502/language-masters/de:/de",
+    "/content/shmehta-wknd2-15122502/configuration:/.helix/config.json",
+    "/content/shmehta-wknd2-15122502/metadata:/metadata.json",
+    "/content/shmehta-wknd2-15122502/redirects:/redirects.json",
+    "/content/shmehta-wknd2-15122502/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/shmehta-wknd2-15122502/",
+    "/content/dam/shmehta-wknd2-15122502/"
   ]
 }
